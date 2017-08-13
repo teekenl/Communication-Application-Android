@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mood Graph"
+        android:id="@+id/mainTitleGraph"
+        android:width="300dp"
+        android:visibility="visible"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/background_dark"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp" />
+
+    <com.jjoe64.graphview.helper.GraphViewXML
+        android:layout_width="850dp"
+        android:layout_height="500dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        app:seriesColor="@color/colorPrimary"
+        app:seriesData="0=5;2=5;3=0;4=2"
+        app:seriesType="line"
+        android:id="@+id/graph" />
+
+    <ProgressBar style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/mood_loading_spinner"
+        android:progressDrawable="@drawable/progress_loading"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Graph View"
+        android:id="@+id/noGraphView"
+        android:width="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone"
+        android:textColor="@android:color/darker_gray"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please come back at least 2 days"
+        android:id="@+id/noGraphView2"
+        android:width="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="350dp"
+        android:visibility="gone"
+        android:textColor="@android:color/darker_gray"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="80dp"
+        android:id="@+id/graphimageview1"
+        android:src="@drawable/great"
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="260dp"
+        android:id="@+id/graphimageview3"
+        android:src="@drawable/ok"
+        android:scaleType="centerCrop"/>
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="370dp"
+        android:id="@+id/graphimageview4"
+        android:src="@drawable/bad"
+
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="470dp"
+        android:id="@+id/graphimageview5"
+        android:src="@drawable/worse"
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/good"
+        android:id="@+id/graphimageview2"
+
+        android:scaleType="centerCrop"
+        android:layout_below="@+id/graphimageview1"
+        android:layout_alignLeft="@+id/graphimageview1"
+        android:layout_alignStart="@+id/graphimageview1" />
+
+</RelativeLayout>

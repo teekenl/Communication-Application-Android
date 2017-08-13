@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_deleteview.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_deleteview.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy3.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app5.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_noimage.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_noimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\good.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy2.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\prev.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app7.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app7.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_event_pre_add.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_event_pre_add.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activiies2.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activiies2.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app10.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app10.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\speechaudio.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\speechaudio.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speed.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\vertical_divider.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\vertical_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_event_pre_add.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_event_pre_add.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activities.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activities.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app8.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app8.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app3.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph2.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bad.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\bad.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speed.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app1.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app10.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app10.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_view.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_view.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app4.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app4.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy2.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy1.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy1.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app7.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app7.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_notes.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app5.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app5.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_deleteview.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_deleteview.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activities.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activities.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app7.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app7.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\prev.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy3.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy3.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\next.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app3.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\good.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\worse.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\worse.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\vertical_divider.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\vertical_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph2.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app8.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app8.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activiies2.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activiies2.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pre_event_add3.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pre_event_add3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_notes.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app2.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speech.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speech.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pre_event_add3.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pre_event_add3.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\tick.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\tick.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\great.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\great.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app6.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app6.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy2.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_notes.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app6.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app6.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app4.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app4.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\next.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pre_event_add3.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_pre_event_add3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy1.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app2.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speech.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speech.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_event_pre_add.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_event_pre_add.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_noimage.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_noimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\great.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\great.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy3.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app10.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app10.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\tick.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\tick.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_view.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_view.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app1.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_noimage.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_noimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_new.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\good.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_view.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_view.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_calendar.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activities.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activities.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph.jpg",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph2.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph2.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_done.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app5.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app5.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app4.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app4.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app6.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app6.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_deleteview.jpg",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_deleteview.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\tick.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\tick.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_calendar.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\vertical_divider.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\vertical_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\graph.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\graph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app1.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\worse.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\worse.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app8.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app8.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_calendar.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app2.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\activiies2.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\activiies2.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\speechaudio.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\speechaudio.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\therapy1.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\therapy1.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\worse.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\worse.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_new.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_action_new.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\speechaudio.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\speechaudio.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bad.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\bad.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\great.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\great.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app9.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app9.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\prev.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\app3.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\app3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speed.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speed.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\bad.png",
+        "source": "C:\\Users\\Ken\\Documents\\SourceTree\\MyStrokePlanner\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\bad.png"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_speech.jpg",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_speech.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\next.png",
+        "source": "C:\\Users\\Zhen\\Desktop\\New folder\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ok.png",
+        "source": "C:\\Users\\Ken\\Desktop\\MyStroke\\app\\src\\main\\res\\drawable-xxxhdpi\\ok.png"
+    }
+]

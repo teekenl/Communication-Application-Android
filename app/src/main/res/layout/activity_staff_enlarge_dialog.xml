@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="800dp"
+    android:layout_height="500dp">
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:id="@+id/staffDetailsNameTitle"
+        android:layout_alignTop="@+id/staffDetailsTitle"
+        android:layout_toRightOf="@+id/staffDetailsTitle"
+        android:layout_toEndOf="@+id/staffDetailsTitle"/>
+
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/staffTitleSpinner"
+        android:spinnerMode="dropdown"
+        android:visibility="gone"
+        android:layout_marginLeft="30dp"
+        android:dropDownVerticalOffset="-15dp"
+        android:layout_alignTop="@+id/staffDetailsTitle"
+        android:layout_toRightOf="@+id/staffDetailsTitle"
+        android:layout_toEndOf="@+id/staffDetailsTitle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First:"
+        android:id="@+id/staffDetailsNameMain"
+        android:layout_marginTop="54dp"
+        android:width="150dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_below="@+id/staffDetailsTitle"
+        android:layout_alignLeft="@+id/staffDetailsTitle"
+        android:layout_alignStart="@+id/staffDetailsTitle" />
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:id="@+id/staffDetailsMainNameView"
+        android:layout_alignTop="@+id/staffDetailsNameMain"
+        android:layout_toRightOf="@+id/staffDetailsNameMain"
+        android:layout_toEndOf="@+id/staffDetailsNameMain"/>
+
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:id="@+id/staffDetailsNameEdited"
+        android:visibility="gone"
+        android:textSize="30dp"
+        android:gravity="left"
+        android:singleLine="true"
+        android:hint="First Name"
+        android:layout_alignTop="@+id/staffDetailsNameMain"
+        android:layout_toRightOf="@+id/staffDetailsNameMain"
+        android:layout_toEndOf="@+id/staffDetailsNameMain"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last:"
+        android:id="@+id/staffDetailsNameMainLast"
+        android:layout_marginTop="54dp"
+        android:width="150dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_below="@+id/staffDetailsNameMain"
+        android:layout_alignLeft="@+id/staffDetailsNameMain"
+        android:layout_alignStart="@+id/staffDetailsNameMain" />
+
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:id="@+id/staffDetailNameMainViewLast"
+        android:layout_alignTop="@+id/staffDetailsNameMainLast"
+        android:layout_toRightOf="@+id/staffDetailsNameMainLast"
+        android:layout_toEndOf="@+id/staffDetailsNameMainLast"/>
+
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:id="@+id/staffDetailsNameEditedLast"
+        android:textSize="30dp"
+        android:visibility="gone"
+        android:singleLine="true"
+        android:gravity="left"
+        android:hint="Last Name"
+        android:layout_alignTop="@+id/staffDetailsNameMainLast"
+        android:layout_toRightOf="@+id/staffDetailsNameMainLast"
+        android:layout_toEndOf="@+id/staffDetailsNameMainLast"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Optional"
+        android:id="@+id/optionalView2"
+        android:layout_marginTop="275dp"
+        android:layout_marginLeft="350dp"
+        android:layout_alignRight="@+id/staffDetailsNameEditedLast" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Title:"
+        android:id="@+id/staffDetailsTitle"
+        android:layout_marginTop="53dp"
+        android:width="150dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginStart="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:width="200dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:id="@+id/staffPhotoTitle"
+        android:text="Staff Photo"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/staff_enlarge_view"
+        android:layout_alignRight="@+id/staff_enlarge_view"
+        android:layout_alignEnd="@+id/staff_enlarge_view"
+        android:layout_marginRight="43dp"
+        android:layout_marginEnd="43dp" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="280dp"
+        android:id="@+id/staff_enlarge_view"
+        android:minWidth="200dp"
+        android:minHeight="200dp"
+        android:scaleType="centerCrop"
+        android:onClick="selectStaffImage2"
+        android:layout_marginRight="19dp"
+        android:layout_marginEnd="19dp"
+        android:layout_alignTop="@+id/staffDetailsNameTitle"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>

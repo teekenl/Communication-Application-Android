@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nameEditText"
+        android:layout_marginTop="55dp"
+        android:width="300dp"
+        android:height="50dp"
+        android:singleLine="true"
+        android:hint="Enter Your Name"
+        android:text=""
+        android:textColor="#b8b3b3"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="55dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:id="@+id/nameDoneButton"
+        android:width="150dp"
+        android:textSize="25dp"
+        android:background="#00ffffff"
+        android:textColor="#808080"
+        android:layout_marginTop="45dp"
+        android:layout_below="@+id/nameEditText"
+        android:layout_alignLeft="@+id/nameEditText"
+        android:layout_alignStart="@+id/nameEditText"
+        android:layout_marginLeft="204dp"
+        android:layout_marginStart="204dp"
+        android:foreground="?android:selectableItemBackground"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/nameCancelButton"
+        android:width="150dp"
+        android:textSize="25dp"
+        android:background="#00ffffff"
+        android:textColor="#808080"
+        android:layout_alignTop="@+id/nameDoneButton"
+        android:layout_marginLeft="10dp"
+        android:foreground="?android:selectableItemBackground"/>
+</RelativeLayout>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dknig.mystroke.EventTab"
+    android:background="#ffffff">
+
+
+    <ListView
+        android:layout_width="400dp"
+        android:layout_height="550dp"
+        android:id="@+id/eventListView"
+        android:dividerHeight="3dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fadeScrollbars="true"
+        android:choiceMode="singleChoice"
+        android:listSelector="#E3F2FD"
+        android:layout_marginBottom="10dp"/>
+
+    <View android:id="@+id/titleDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="?android:colorFocusedHighlight"
+        android:layout_alignBottom="@+id/eventTitle1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@android:color/darker_gray"
+        android:text="No Selected Event"
+        android:id="@+id/noSelectedView"
+        android:layout_marginTop="201dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="36dp"
+        android:layout_marginEnd="36dp"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Event Added"
+        android:id="@+id/noEventView"
+        android:layout_marginLeft="49dp"
+        android:layout_marginStart="49dp"
+        android:width="300dp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="200dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:textSize="30dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:minWidth="20dp"
+        android:minHeight="710dp"
+        android:background="@drawable/vertical_divider"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="400dp"
+        android:scaleType="centerCrop"
+        android:paddingRight="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Event List"
+        android:gravity="center_vertical"
+        android:id="@+id/eventTitle1"
+        android:height="70dp"
+        android:width="400dp"
+        android:textSize="30dp"
+        android:paddingLeft="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Select All"
+        android:backgroundTint="#00ffffff"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="5dp"
+        android:onClick="refreshSelectedAllDateView"
+        android:layout_marginLeft="275dp"
+        android:foreground="?android:selectableItemBackground"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Details"
+        android:gravity="center_vertical"
+        android:id="@+id/eventTitle2"
+        android:height="70dp"
+        android:width="400dp"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="420dp"/>
+
+
+
+    <ProgressBar style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loading_spinner"
+        android:layout_marginTop="200dp"
+        android:progressDrawable="@drawable/progress_loading"
+        android:layout_marginLeft="690dp"/>
+
+    <ProgressBar style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loading_spinner2"
+        android:progressDrawable="@drawable/progress_loading"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="170dp"/>
+
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:id="@+id/viewContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:layout_below="@+id/eventTitle2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/eventTitle2"
+        android:layout_alignStart="@+id/eventTitle2"
+        android:layout_alignParentBottom="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/deleteView"
+        android:minWidth="30dp"
+        android:minHeight="30dp"
+        android:foreground="?android:selectableItemBackground"
+        android:layout_marginLeft="990dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_deleteview"
+        android:visibility="gone" />
+
+</RelativeLayout>

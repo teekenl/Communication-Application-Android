@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dknig.mystroke"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+-
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.dknig.mystroke.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.dknig.mystroke.EventTab"
+            android:windowSoftInputMode="adjustNothing" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dknig.mystroke.MainActivity" />
+        </activity>
+        <activity android:name="com.example.dknig.mystroke.StaffTab" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dknig.mystroke.MainActivity" />
+        </activity>
+        <activity android:name="com.example.dknig.mystroke.MoodTab" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dknig.mystroke.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.dknig.mystroke.pop"
+            android:theme="@style/AppTheme.CustomTheme" />
+        <activity android:name="com.example.dknig.mystroke.AcitivityTab" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.dknig.mystroke.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="1000dp"
+    android:layout_height="800dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit Staff"
+        android:id="@+id/staff_enlarge_title"
+        android:width="300dp"
+        android:textColor="@color/colorPrimary"
+        android:height="50dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="30dp" />
+
+    <View android:id="@+id/enlarge_divider"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/staff_enlarge_title"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:background="#00ffffff"
+        android:id="@+id/staff_enlarge_done"
+        android:layout_alignParentTop="true"
+        android:visibility="gone"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:background="#00ffffff"
+        android:visibility="visible"
+        android:id="@+id/staff_enlarge_edit"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/staffDeleteView"
+        android:minWidth="30dp"
+        android:minHeight="30dp"
+        android:foreground="?android:selectableItemBackground"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="860dp"
+        android:background="@drawable/ic_deleteview"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

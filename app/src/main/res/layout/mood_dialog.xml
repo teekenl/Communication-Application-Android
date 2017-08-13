@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1000dp"
+    android:layout_height="500dp"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Skip it"
+        android:id="@+id/skipButton"
+        android:width="150dp"
+        android:textSize="30dp"
+        android:background="#ffffff"
+        android:foreground="?android:selectableItemBackground"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"/>
+
+    <View android:id="@+id/mood_divider"
+        android:layout_width="match_parent"
+        android:layout_marginTop="70dp"
+        android:layout_height="2dip"
+        android:background="@color/colorPrimary"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How do you feel?"
+        android:id="@+id/titleView"
+        android:textSize="50dp"
+        android:padding="10dp"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignParentTop="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/greatButton"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:foreground="?android:selectableItemBackground"
+        android:src="@drawable/great"
+        android:width="150dp"
+        android:height="150dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="180dp"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/okButton"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:width="150dp"
+        android:height="150dp"
+        android:src="@drawable/ok"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="450dp"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:id="@+id/goodButton"
+        android:width="150dp"
+        android:height="150dp"
+        android:src="@drawable/good"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginRight="37dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/badButton"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:width="150dp"
+        android:height="150dp"
+        android:src="@drawable/bad"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="650dp"
+        android:layout_marginRight="40dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/worseButton"
+        android:width="150dp"
+        android:height="150dp"
+        android:src="@drawable/worse"
+        android:background="@drawable/button_bg_rounded_corners"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="840dp"
+        android:foreground="?android:selectableItemBackground"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Great"
+        android:id="@+id/textView"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginLeft="60dp"
+        android:layout_below="@+id/greatButton"
+        android:layout_alignLeft="@+id/titleView"
+        android:layout_alignStart="@+id/titleView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Good"
+        android:id="@+id/textView2"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginLeft="265dp"
+       android:layout_marginTop="275dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="OK"
+        android:id="@+id/textView3"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginLeft="480dp"
+        android:layout_below="@+id/goodButton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Bad"
+        android:id="@+id/textView4"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginLeft="675dp"
+        android:layout_marginTop="270dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Worse"
+        android:id="@+id/textView5"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:paddingRight="25dp"
+        android:layout_marginLeft="840dp"
+        android:layout_marginTop="270dp"/>
+
+
+</RelativeLayout>

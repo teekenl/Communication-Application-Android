@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.dknig.mystroke.MainActivity"
+    android:background="#ffffff">
+
+    <ProgressBar style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loading_spinner"
+        android:progressDrawable="@drawable/progress_loading"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <RelativeLayout
+        android:animateLayoutChanges="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/mainlayout"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/MoodButton"
+        android:minHeight="100dp"
+        android:minWidth="100dp"
+        android:layout_alignTop="@+id/ActivityButton"
+        android:layout_toRightOf="@+id/ActivityButton"
+        android:layout_marginLeft="60dp"
+        android:background="@drawable/graph2"
+        android:foreground="?android:selectableItemBackground"
+        android:onClick="moodTab" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/NameView"
+        android:width="300dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:singleLine="true"
+        android:layout_below="@+id/personalView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:text="Your name"
+        android:onClick="editNameTab" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Event"
+        android:id="@+id/eventView"
+        android:paddingLeft="10dp"
+        android:layout_above="@+id/EventButton"
+        android:layout_alignLeft="@+id/EventButton"
+        android:gravity="center"
+        android:layout_marginLeft="45dp"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Activities"
+        android:paddingLeft="10dp"
+        android:gravity="center"
+        android:layout_above="@+id/ActivityButton"
+        android:layout_alignLeft="@+id/ActivityButton"
+        android:layout_alignStart="@+id/ActivityButton"
+        android:layout_alignTop="@+id/moodView"
+        android:layout_alignRight="@+id/ActivityButton"
+        android:layout_alignEnd="@+id/ActivityButton"
+        android:id="@+id/activityView"
+        android:layout_marginRight="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Mood"
+        android:paddingLeft="10dp"
+        android:layout_above="@+id/MoodButton"
+        android:layout_alignLeft="@+id/MoodButton"
+        android:layout_alignStart="@+id/MoodButton"
+        android:layout_alignRight="@+id/MoodButton"
+        android:layout_alignEnd="@+id/MoodButton"
+        android:gravity="center_horizontal"
+        android:id="@+id/moodView"
+        android:layout_marginRight="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Staff"
+        android:id="@+id/staffView"
+        android:layout_above="@+id/StaffButton"
+        android:layout_alignLeft="@+id/StaffButton"
+        android:layout_alignStart="@+id/StaffButton"
+        android:layout_alignRight="@+id/StaffButton"
+        android:layout_alignEnd="@+id/StaffButton"
+        android:gravity="center"
+        android:layout_alignTop="@+id/eventView" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editButton"
+        android:minWidth="25dp"
+        android:background="#00ffffff"
+        android:src="@drawable/edit_name"
+        android:layout_alignTop="@+id/NameView"
+        android:layout_alignBottom="@+id/NameView"
+        android:layout_marginLeft="100dp"
+        android:layout_alignRight="@+id/NameView"
+        android:onClick="editNameTab"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:id="@+id/personalView"
+            android:maxHeight="300dp"
+            android:maxWidth="300dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/head_photo"
+            android:foreground="?android:selectableItemBackground"
+            android:onClick="selectImage"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/NameView"
+            android:layout_alignStart="@+id/NameView" />
+
+        <ImageButton
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/EventButton"
+            android:minHeight="100dp"
+            android:minWidth="100dp"
+            android:background="@mipmap/event"
+            android:foreground="?android:selectableItemBackground"
+            android:onClick="eventTab"
+            android:layout_marginRight="61dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/StaffButton"
+            android:layout_toStartOf="@+id/StaffButton"
+            android:layout_marginEnd="61dp" />
+
+        <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/StaffButton"
+        android:minHeight="100dp"
+        android:minWidth="100dp"
+        android:background="@mipmap/staff_icon"
+        android:foreground="?android:selectableItemBackground"
+        android:onClick="staffTab"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/editButton"
+        android:layout_toStartOf="@+id/editButton"
+        android:layout_marginRight="45dp"
+        android:layout_marginEnd="46dp" />
+
+        <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/ActivityButton"
+        android:minHeight="100dp"
+        android:minWidth="100dp"
+        android:background="@drawable/activiies2"
+        android:foreground="?android:selectableItemBackground"
+        android:onClick="activityTab"
+        android:layout_marginLeft="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/staffView"
+        android:layout_toEndOf="@+id/staffView" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

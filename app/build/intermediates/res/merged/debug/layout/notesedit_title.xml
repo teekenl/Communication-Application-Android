@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="550dp"
+    android:layout_height="300dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notes View"
+        android:id="@+id/notesViewDone"
+        android:width="300dp"
+        android:textColor="@color/colorPrimary"
+        android:height="50dp"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <View android:id="@+id/noteviewdoneDivider"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:background="@color/colorPrimary"
+        android:layout_below="@+id/notesViewDone"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:background="#00ffffff"
+        android:visibility="visible"
+        android:id="@+id/notes_enlarge_edit"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DONE"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:background="#00ffffff"
+        android:visibility="gone"
+        android:id="@+id/notes_enlarge_done"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+
+</RelativeLayout>

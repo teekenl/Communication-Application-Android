@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="enlarge_width">400dp</dimen>
+    <dimen name="enlarge_height">400dp</dimen>
+    <dimen name="staffAddWidth">1000dp</dimen>
+    <dimen name="staffAddheight">580dp</dimen>
+    <dimen name="staffEditedWidth">1000dp</dimen>
+    <dimen name="staffEditedheight">580dp</dimen>
+    <dimen name="notesWidth">450dp</dimen>
+    <dimen name="notesHeight">350dp</dimen>
+</resources>

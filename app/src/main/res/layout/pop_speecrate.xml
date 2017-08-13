@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="450dp">
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="Rate of Speed (Speech)"
+        android:id="@+id/title_event_add"
+        android:layout_centerHorizontal="false"
+        android:width="300dp"
+        android:textColor="@color/colorPrimary"
+        android:height="50dp"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="30dp" />
+
+    <View android:id="@+id/title_event_add_divider"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:background="@color/colorPrimary"
+        android:layout_alignBottom="@+id/title_event_add"/>
+
+
+    <TextView
+        android:layout_width="500dp"
+        android:layout_height="80dp"
+        android:textSize="20dp"
+        android:layout_marginTop="50dp"
+        android:text="Please select the rate of speed for speech audio output"
+        android:padding="5dp"/>
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="50dp"
+        android:text="Speed Rate:"
+        android:layout_marginLeft="200dp"
+        android:textSize="20dp"
+        android:layout_marginTop="150dp"/>
+    <RadioGroup
+        android:layout_width="300dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="150dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/speech_rate_selection"
+        android:layout_gravity="center_horizontal">
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       Slow"
+        android:id="@+id/radioButton"
+        android:onClick="rateClick"
+        android:layout_gravity="center_horizontal"
+        android:checked="false" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Normal"
+        android:id="@+id/radioButton2"
+        android:onClick="rateClick2"
+        android:layout_gravity="center_horizontal"
+        android:checked="false" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="       Fast"
+        android:id="@+id/radioButton3"
+        android:onClick="rateClick3"
+        android:layout_gravity="center_horizontal"
+        android:checked="false" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:id="@+id/popup_close"
+        android:onClick="close"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="#ffffff"
+        android:textColor="@color/colorPrimary"/>
+
+</RelativeLayout>

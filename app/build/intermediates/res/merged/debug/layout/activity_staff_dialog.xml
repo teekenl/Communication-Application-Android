@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="800dp"
+    android:layout_height="500dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Title:"
+        android:id="@+id/staffTitle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="50dp"
+        android:width="180dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="First:"
+        android:id="@+id/staffAddName"
+        android:layout_marginTop="47dp"
+        android:width="180dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_below="@+id/staffTitle"
+        android:layout_alignLeft="@+id/staffTitle"
+        android:layout_alignStart="@+id/staffTitle" />
+
+    <Spinner
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:id="@+id/spinner4"
+        android:spinnerMode="dropdown"
+        android:layout_marginLeft="15dp"
+        android:dropDownVerticalOffset="42dp"
+        android:layout_alignTop="@+id/staffTitle"
+        android:layout_toRightOf="@+id/staffTitle"
+        android:layout_toEndOf="@+id/staffTitle" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/staffEditedName"
+        android:layout_alignTop="@+id/staffAddName"
+        android:layout_toRightOf="@+id/staffAddName"
+        android:layout_toEndOf="@+id/staffAddName"
+        android:width="180dp"
+        android:hint="First Name"
+        android:height="50dp"
+        android:singleLine="true"
+        android:textSize="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="70dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Last:"
+        android:id="@+id/staffAddLast"
+        android:layout_marginTop="47dp"
+        android:width="180dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_below="@+id/staffAddName"
+        android:layout_alignLeft="@+id/staffAddName"
+        android:layout_alignStart="@+id/staffAddName" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/staffEditedLast"
+        android:layout_alignTop="@+id/staffAddLast"
+        android:layout_toRightOf="@+id/staffAddLast"
+        android:layout_toEndOf="@+id/staffAddLast"
+        android:width="180dp"
+        android:height="50dp"
+        android:hint="Last Name"
+        android:singleLine="true"
+        android:textSize="30dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="70dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Role:"
+        android:textSize="30dp"
+        android:width="180dp"
+        android:height="50dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/roleAddName"
+        android:gravity="center"
+        android:layout_below="@+id/staffAddLast"
+        android:layout_marginTop="47dp"/>
+
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/spinnerRole"
+        android:spinnerMode="dropdown"
+        android:dropDownVerticalOffset="42dp"
+        android:visibility="visible"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/roleAddName"
+        android:layout_toRightOf="@+id/roleAddName"
+        android:layout_toEndOf="@+id/roleAddName" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Optional"
+        android:id="@+id/optionalView"
+        android:layout_marginTop="260dp"
+        android:layout_toRightOf="@+id/spinner4"
+        android:layout_toEndOf="@+id/spinner4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:width="200dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:id="@+id/staffPhotoTitle"
+        android:text="Staff Photo"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/staffAddPhoto"
+        android:layout_alignRight="@+id/staffAddPhoto"
+        android:layout_alignEnd="@+id/staffAddPhoto"
+        android:layout_marginRight="32dp"
+        android:layout_marginEnd="32dp" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="280dp"
+        android:src="@drawable/head_photo"
+        android:id="@+id/staffAddPhoto"
+        android:scaleType="centerCrop"
+        android:layout_marginRight="17dp"
+        android:layout_marginEnd="17dp"
+        android:onClick="selectStaffImage"
+        android:layout_alignTop="@+id/spinner4"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

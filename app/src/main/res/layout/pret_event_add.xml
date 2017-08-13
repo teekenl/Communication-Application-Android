@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <GridView
+        android:id="@+id/event_pre_built"
+        android:layout_width="1000dp"
+        android:layout_height="600dp"
+        android:background="#00000000"
+        android:cacheColorHint="#80000000"
+        android:gravity="center"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="4"
+        android:horizontalSpacing="40dp"
+        android:verticalSpacing="20dp"
+        android:stretchMode="columnWidth"
+        android:textAlignment="gravity"
+        android:longClickable="false">
+
+    </GridView>
+
+</RelativeLayout>

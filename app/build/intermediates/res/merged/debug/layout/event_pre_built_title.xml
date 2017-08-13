@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="1000dp" android:layout_height="600dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Event"
+        android:id="@+id/title_event_add"
+        android:layout_centerHorizontal="false"
+        android:width="300dp"
+        android:textColor="@color/colorPrimary"
+        android:height="50dp"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="30dp" />
+
+    <View android:id="@+id/title_event_add_divider"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:background="@color/colorPrimary"
+        android:layout_alignBottom="@+id/title_event_add"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:background="#00ffffff"
+        android:id="@+id/event_pre_done"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

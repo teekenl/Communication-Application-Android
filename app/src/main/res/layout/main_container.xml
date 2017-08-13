@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="600dp" android:layout_height="550dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/mainPhotoView"
+        android:minHeight="200dp"
+        android:minWidth="200dp"
+        android:layout_alignParentRight="true"
+        android:scaleType="centerCrop"
+        android:foreground="?android:selectableItemBackground"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/ic_noimage" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="Name: "
+        android:id="@+id/MainNameView"
+        android:width="100dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="60dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Staff:"
+        android:id="@+id/MainStaffView"
+        android:width="100dp"
+        android:layout_marginTop="20dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_below="@+id/MainNameView"
+        android:layout_alignLeft="@+id/MainNameView"
+        android:layout_alignStart="@+id/MainNameView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place:"
+        android:id="@+id/MainPlaceView"
+        android:width="120dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/mainPhotoView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Repeat:"
+        android:id="@+id/MainRepeatView"
+        android:width="110dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginLeft="10dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CANCEL"
+        android:id="@+id/mainCancelButton"
+        android:width="150dp"
+        android:textSize="25dp"
+        android:visibility="gone"
+        android:layout_marginTop="490dp"
+        android:layout_marginLeft="145dp"
+        android:background="#ffffff"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+         />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DONE"
+        android:id="@+id/mainDoneButton"
+        android:width="150dp"
+        android:textSize="25dp"
+        android:layout_marginTop="490dp"
+        android:layout_marginLeft="335dp"
+        android:visibility="gone"
+        android:background="#ffffff"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EDIT"
+        android:id="@+id/mainEditButton"
+        android:width="150dp"
+        android:textSize="25dp"
+        android:background="#ffffff"
+        android:textColor="@color/colorPrimary"
+        android:foreground="?android:selectableItemBackground"
+        android:layout_marginTop="490dp"
+        android:layout_marginLeft="235dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainEditedName"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_alignTop="@+id/MainNameView"
+        android:layout_toRightOf="@+id/MainNameView"
+        android:layout_toEndOf="@+id/MainNameView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainEditedPlace"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="0dp"
+        android:layout_alignTop="@+id/MainPlaceView"
+        android:layout_toRightOf="@+id/MainPlaceView"
+        android:layout_toEndOf="@+id/MainPlaceView" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextTime"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:singleLine="true"
+        android:visibility="gone"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="190dp"
+        android:layout_toRightOf="@+id/MainTimeView"
+        android:layout_toEndOf="@+id/MainTimeView"/>
+
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/spinner3"
+        android:spinnerMode="dropdown"
+        android:visibility="gone"
+        android:dropDownVerticalOffset="42dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="330dp"
+        android:layout_toRightOf="@+id/MainRepeatView"
+        android:layout_toEndOf="@+id/MainRepeatView" />
+
+    <Spinner
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/spinner1"
+        android:spinnerMode="dropdown"
+        android:visibility="gone"
+        android:layout_marginLeft="20dp"
+        android:dropDownVerticalOffset="42dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/MainNameView"
+        android:layout_toRightOf="@+id/MainStaffView"
+        android:layout_toEndOf="@+id/MainStaffView" />
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainEditedRepeat"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="340dp"
+        android:layout_toRightOf="@+id/MainRepeatView"
+        android:layout_toEndOf="@+id/MainRepeatView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainEditedStaff"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/MainNameView"
+        android:layout_toRightOf="@+id/MainStaffView"
+        android:layout_toEndOf="@+id/MainStaffView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date:"
+        android:id="@+id/MainTimeView"
+        android:width="100dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/MainEditedTime"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="200dp"
+        android:layout_toRightOf="@+id/MainTimeView"
+        android:layout_toEndOf="@+id/MainTimeView" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextName"
+        android:width="200dp"
+        android:height="50dp"
+        android:visibility="gone"
+        android:textSize="30dp"
+        android:singleLine="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="130dp"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextPlace"
+        android:width="200dp"
+        android:height="50dp"
+        android:textSize="30dp"
+        android:singleLine="true"
+        android:visibility="gone"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/MainPlaceView"
+        android:layout_toEndOf="@+id/MainPlaceView"
+        android:layout_below="@+id/MainTimeView"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="bottom|right"
+        android:onClick="showNotes"
+        android:id="@+id/notesView"
+        android:src="@drawable/ic_notes"
+        app:backgroundTint="@color/colorAccent"
+        android:layout_marginLeft="450dp"
+        app:pressedTranslationZ="12dp"
+        android:layout_marginTop="350dp"
+        app:layout_anchorGravity="bottom|right|end" />
+
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:inputType="time"
+        android:singleLine="true"
+        android:visibility="gone"
+        android:textSize="30dp"
+        android:id="@+id/timepickeredit"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="410dp" />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:inputType="time"
+        android:textSize="30dp"
+        android:id="@+id/timepickerview"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="410dp" />
+
+    <TextView
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:text="Time:"
+        android:textSize="30dp"
+        android:id="@+id/timepickermaintext"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="410dp" />
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyStroke Planner</string>
+    <string-array name="titleName">
+        <item> Ms</item>
+        <item> Mr</item>
+        <item> Dr</item>
+    </string-array>
+    <string-array name="roleName">
+        <item> Doctor</item>
+        <item> Nurse</item>
+    </string-array>
+    <string-array name="repetition">
+        <item> None</item>
+        <item> One-time</item>
+        <item> Everday</item>
+        <item> Every-week</item>
+    </string-array>
+
+</resources>
